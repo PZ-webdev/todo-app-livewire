@@ -7,7 +7,11 @@ We can add what we have to do and mark off what we have already done, we can eas
 and all this is quickly saved in the database for a given user on whom we are logged in.
 
 
-## View App
+## 
+--
+--Addition to database
+--Delete from database
+--
 
 ## Start Page
 <a href="https://imgur.com/rVrY6J0">
