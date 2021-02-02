@@ -9,7 +9,8 @@
         - Laravel 8.x,
         - Livewire 2.x,
         - Database (SQL),
-        - Multilang website
+        - Multilang website,
+        -Template start page: https://startbootstrap.com/theme/agency
         
         
     - Description:
