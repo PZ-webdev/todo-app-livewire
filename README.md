@@ -2,14 +2,17 @@
 
 ## About Application
 
-Todo App
+<p>ToDo App use Laravel & Livewire</p>
 
+
+## View App
 <a href="https://imgur.com/rVrY6J0">
     <img src="https://i.imgur.com/rVrY6J0.png" title="source: imgur.com" />
-</a>
-<a href="https://imgur.com/x1aZKH4">
-    <img src="https://i.imgur.com/x1aZKH4.png" title="source: imgur.com" />
 </a>
 <a href="https://imgur.com/QSdzzFj">
     <img src="https://i.imgur.com/QSdzzFj.png" title="source: imgur.com" />
 </a>
+<a href="https://imgur.com/x1aZKH4">
+    <img src="https://i.imgur.com/x1aZKH4.png" title="source: imgur.com" />
+</a>
+
